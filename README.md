@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michelamallick
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning EVERYTHING :)
+- 🌱 I’m currently learning GA4
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me mallick.michela@gmail.com
 <!---
